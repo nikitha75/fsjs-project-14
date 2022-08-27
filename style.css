@@ -92,9 +92,10 @@ nav > .list {
 }
 
 .ingredient > p {
-  color: #9e9c9b;
+  color: #7c7c7c;
   font-size: 24px;
   width: 120px;
+  font-weight: bold;
 }
 
 .hero-btn {  
