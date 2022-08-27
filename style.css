@@ -148,6 +148,7 @@ nav > .list {
   background-color: #828282;
   border-radius: 50%;
   margin-top: 30px;
+  cursor: pointer;
 }
 
 .circle-container > div:first-child {
