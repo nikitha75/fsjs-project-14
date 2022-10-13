@@ -43,6 +43,7 @@
     height: 40px;
     margin-left: 25px;
     margin-top: 30px;
+    cursor: pointer;
   }
 
   .inner-container {
@@ -270,6 +271,7 @@
     color: #767372;
     font-weight: bold;
     font-size: 14px;
+    cursor: pointer;
   }
 
   .list>li:first-child {
