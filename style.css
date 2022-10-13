@@ -103,6 +103,7 @@
     display: flex;
     justify-content: space-between;
     font-size: 20px;
+    cursor: pointer;
   }
 
   .services {
@@ -336,6 +337,7 @@
   .social-media>ul>li {
     display: flex;
     justify-content: end;
+    cursor: pointer;
   }
 
   .hero-right-bottom {
